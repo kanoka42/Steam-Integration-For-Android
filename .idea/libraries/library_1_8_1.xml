@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pixplicity.easyprefs/library/1.8.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pixplicity.easyprefs/library/1.8.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pixplicity.easyprefs/library/1.8.1/e8db2dd73853a862d7119902418dc82721c6bb65/library-1.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
